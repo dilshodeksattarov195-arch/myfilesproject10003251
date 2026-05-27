@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervrocess",
+        "uuid": 22080792,
+        "checksum": "vmlf2r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
